@@ -10,13 +10,13 @@ Features:
 6. General Configuration Managment
 
 Initial Setup Composer Commands:
-composer install
+- composer install
 
 Initial Setup Artisan Commands:
 
-php artisan key:generate
-php artisan migrate
-php artisan db:seed
-php artisan cache:clear
+- php artisan key:generate
+- php artisan migrate
+- php artisan db:seed
+- php artisan cache:clear
 
 Cheers! :)
