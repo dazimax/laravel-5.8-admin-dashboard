@@ -1,6 +1,6 @@
 # Laravel 5.8 - Admin Dashboard with CMS and Role Based Access Management
 
-Features:
+You can easily plug and play below features:
 
 1. User Profile Managment
 2. CMS content Managment 
