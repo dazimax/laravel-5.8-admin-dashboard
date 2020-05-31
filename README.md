@@ -1,3 +1,6 @@
+
+Upgraded to code with Laravel 7.12 version can be found here - https://github.com/dazimax/laravel-admin-dashboard
+
 # Laravel 5.8 - Admin Dashboard with CMS and Role Based Access Management
 
 You can easily plug and play below features:
